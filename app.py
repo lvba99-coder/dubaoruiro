@@ -112,7 +112,7 @@ with st.sidebar:
 # ==========================================
 # THÀNH PHẦN 2: HEADER — VÙNG ĐỊNH HƯỚNG
 # ==========================================
-st.title("🛡️ Ứng dụng Phát hiện Giao dịch Gian lận")
+st.title("😂Hệ thống học máy Phát hiện Giao dịch Gian lận😂")
 st.caption("Hệ thống hỗ trợ phân tích rủi ro tín dụng và phát hiện hành vi gian lận tài chính dựa trên học máy.")
 
 if uploaded_file is None:
